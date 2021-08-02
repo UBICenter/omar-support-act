@@ -2,11 +2,11 @@ layout: post
 current: post
 cover:
 navigation: True
-title: "An interesting post"
-date: 2021-06-15
-tags: []
+title: "Ilhan Omar's Near-UBI Guaranteed Income Bill"
+date: 2021-08-01
+tags: [us]
 subclass: "post"
-author: nikhil
-excerpt: "Some interesting excerpt."
+author: [nate,max]
+excerpt: "The House representative's SUPPORT Act tax credit would reach 99.6% of Americans."
 class: post-template
 useplotly: true
