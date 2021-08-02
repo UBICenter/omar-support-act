@@ -2,7 +2,7 @@ name: Submit website PR
 on: [push]
 jobs:
   build:
-    if: github.repository == 'ubicenter/analysis-template'
+    if: github.repository == 'ubicenter/omar-support-act'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

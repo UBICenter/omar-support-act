@@ -1,4 +1,4 @@
-name: reponame
+name: omar-support-act
 dependencies:
 - python
 - plotly
